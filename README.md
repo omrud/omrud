@@ -1,8 +1,7 @@
 # Hi there 👋 , I'm Rudi!
 I am very enthusiastic in data science and really like new things in programming like Python and Javascript.  
-
-### The tools i use are:
 <!--
+### The tools i use are:
 <p>
     <img src:"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src:"https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
@@ -14,9 +13,9 @@ I am very enthusiastic in data science and really like new things in programming
 -->
 <!--
 **omrud/omrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
+Well,
+
 - 🔭 I’m currently working as freelancer 
 - 🌱 I’m currently learning Python, Javascript and MySQL/NoSQL
 - 👯 I’m looking to collaborate on data science project 😁👌 </br>
@@ -24,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, if i know </br>
 - 📫 How to reach me: Just <a href="mailto:roedianto9@gmail.com">Email me!</a>  </br>
 - 😄 Pronouns: He/him </br>
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...mmm </br>
 
