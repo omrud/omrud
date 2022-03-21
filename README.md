@@ -3,10 +3,13 @@ I am very enthusiastic in data science and really like new things in programming
 
 ### The tools i use are:
 <p>
-    <img src="https://img.shields.io/badge/OS-Windows?&logo=windows" />
-    <img src="https://img.shields.io/badge/Python?&logo=Python" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src:"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src:"https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+    <img src:"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src:"https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Pycharm?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
 
