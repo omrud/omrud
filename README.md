@@ -19,7 +19,7 @@ Well,
 - 🔭 I’m currently working as freelancer 
 - 🌱 I’m currently learning Python, Javascript and MySQL/NoSQL
 - 👯 I’m looking to collaborate on data science project 😁👌 </br>
-- 🤔 I’m looking for help with mastering of programming😁 </br>
+- 🤔 I’m looking for help with master of programming😁 </br>
 - 💬 Ask me about anything, if i know </br>
 - 📫 How to reach me: Just <a href="mailto:roedianto9@gmail.com">Email me!</a>  </br>
 - 😄 Pronouns: He/him </br>
