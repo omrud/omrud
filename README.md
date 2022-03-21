@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Rudi!
 I am very enthusiastic in data science and really like new things in programming like Python and Javascript.  
-<!--
+
 ### The tools i use are:
 <p>
     <img src:"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -10,9 +10,10 @@ I am very enthusiastic in data science and really like new things in programming
     <img src="https://img.shields.io/badge/Text%20Editor-pycharm?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
--->
-**omrud/omrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
+**omrud/omrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as freelancer 
